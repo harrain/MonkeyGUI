@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+.DS_Store
+Monkeylog/
+screenshot/
+README.md
+test.py
